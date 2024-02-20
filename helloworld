@@ -1,0 +1,8 @@
+#helloworld
+
+{
+py.open.death_star.Ray
+  read file.txt
+  close file.txt
+end
+}
